@@ -51,29 +51,30 @@ To secure a position as a Java Backend Developer in a reputed IT company within 
 - Contributing to Open Source
 
 ---
-## 🎓 Education
+## Education
 
-### 💻 Bachelor of Computer Applications (BCA)  
+### Bachelor of Computer Applications (BCA)  
 **Narula Institute of Technology**  
-📅 2023 – Present  
-📌 Currently in Pre-Final Year  
-🎯 Focus: Java Backend Development  
+2023 – Present  
+Currently in Pre-Final Year  
+Focus Area: Java Backend Development  
 
 ---
 
-### 🏫 Higher Secondary (Class 12)  
+### Higher Secondary (Class 12)  
 **Sewli Higher Secondary School**  
-📅 2021-2023  
-📊 Percentage: 72%  
+2021 – 2023  
+Percentage: 72%  
 
 ---
 
-### 🏫 Secondary (Class 10)  
-**Ramkrishna Vivekananda Mission Barrackpore**  
-📅 20125-2021  
-📊 Percentage: 72%  
+### Secondary (Class 10)  
+**Ramkrishna Vivekananda Mission, Barrackpore**  
+2015 – 2021  
+Percentage: 72%  
 
 ---
+
 ## GitHub Statistics
 
 <p align="center">
