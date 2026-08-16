@@ -1,5 +1,5 @@
 <h1 align="center">Subhajit Ghosh</h1>
-<h3 align="center">Aspiring Java Backend Developer | BCA Pre-Final Year Student</h3>
+<h3 align="center">Aspiring Java Backend Developer | BCA final Year Student</h3>
 
 ---
 
